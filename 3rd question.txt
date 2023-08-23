@@ -1,0 +1,8 @@
+A.    reverse-i-search is a Linux terminal feature that allows  to search for previous commands by typing in a substring of the command.
+      Reverse-i-search is a very useful feature for quickly finding previous commands that we have used. It can save us a lot of time and effort, especially if we have a long history of commands.
+
+B.     we can use ls -a  command . The -a option tells the ls command to list all files and directories, including hidden ones.
+
+C.    I was familar with Ubuntu i can rate my skills in Ubuntu as 4.7/5
+
+D.   NO i have not used.
